@@ -1,1 +1,1 @@
-# WordPress theme - my theme
+# WordPress theme - Joey theme

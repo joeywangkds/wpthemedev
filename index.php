@@ -10,7 +10,7 @@ Main template file
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wordpress theme</title>
+    <title>Wordpress Joey theme</title>
 </head>
 <body>
     
